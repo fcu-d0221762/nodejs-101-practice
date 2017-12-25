@@ -1,0 +1,19 @@
+{
+  "name": "Desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "echo mocha",
+	"homework": "echo helloworld"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
